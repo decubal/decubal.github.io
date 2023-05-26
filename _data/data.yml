@@ -99,7 +99,7 @@ experiences:
           Whereas Accenture allowed me to enter the professional field, I realised that my personal passion lays on the new 
           software / solutions development. 
           My currents tasks by Code One, are:
-            • Full-Stack developer: programming and working in front-end and back-end development for projects related to 
+            - Full-Stack developer: programming and working in front-end and back-end development for projects related to 
             B2B and B2C commerce using the languages Python and C# and databases as PynamoDB and SQL.
       - role: Analyst Application Developer
         time: 2019 - 2021
@@ -108,12 +108,12 @@ experiences:
           Accenture was my first contact with the professional field, where I had the opportunity as a backend developer, to give 
           support to 3 important projects with customers in USA, Italy and Brazil. 
           Among others tasks I had the opportunity to: 
-            • Create scripts which could give Accenture an overview about the status of the different servers we had to 
+            - Create scripts which could give Accenture an overview about the status of the different servers we had to 
               support, allowing Accenture to improve the quality of its support. 
-            • Write new features in C# such as a unique way to sort strings and also fix bugs. 
-            • Create deploy guides.
-            • Database corrections.
-            • Detect bugs, correcting and add features to existing programs, helping to expand the business.
+            - Write new features in C# such as a unique way to sort strings and also fix bugs. 
+            - Create deploy guides.
+            - Database corrections.
+            - Detect bugs, correcting and add features to existing programs, helping to expand the business.
 projects:
     title: Projects
     intro: >
