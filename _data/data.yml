@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Nuno Marques
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: linkedin-pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nuno.duarte.marques@hotmail.com
