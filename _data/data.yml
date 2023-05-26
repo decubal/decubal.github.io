@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nuno Marques
-    tagline: Software Engineer
+    tagline: Software Engineer 
     avatar: linkedin-pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,7 +19,7 @@ sidebar:
     website:
     linkedin: nuno-d-marques
     xing: 
-    github: decubal
+    github: nuno-d-marques
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
