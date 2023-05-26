@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,7 +17,7 @@ sidebar:
     timezone:
     citizenship:
     website:
-    linkedin: /nuno-d-marques/
+    linkedin: nuno-d-marques
     xing: 
     github: decubal
     telegram: # add your nickname without '@' sign
@@ -32,25 +32,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Portuguese
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
-
+        
         - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gaming
           link:
 
-        - item: Snowboarding
+        - item: Music
           link:
 
-        - item: Cooking
+        - item: Cinema
           link:
 
 career-profile:
