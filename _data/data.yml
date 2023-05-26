@@ -77,9 +77,10 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Engineer
+        time: 2022 - Present
+        company: IntellectEU 
+        link: https://www.intellecteu.com/
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,7 +95,8 @@ experiences:
             - Bullet point
       - role: Software Engineer
         time: 2021 - 2022
-        company: Code One, Porto http://www.codeone.pt/newsite/
+        company: Code One, Porto 
+        link: http://www.codeone.pt/newsite/
         details: |
           Whereas Accenture allowed me to enter the professional field, I realised that my personal passion lays on the new 
           software / solutions development. 
@@ -103,7 +105,8 @@ experiences:
             B2B and B2C commerce using the languages Python and C# and databases as PynamoDB and SQL.
       - role: Analyst Application Developer
         time: 2019 - 2021
-        company: Accenture, Braga https://www.accenture.com/
+        company: Accenture, Braga 
+        link: https://www.accenture.com/
         details: |
           Accenture was my first contact with the professional field, where I had the opportunity as a backend developer, to give 
           support to 3 important projects with customers in USA, Italy and Brazil. 
