@@ -84,8 +84,8 @@ experiences:
         company: IntellectEU 
         link: https://www.intellecteu.com/
         details: |
-          With IntellectEU I adventured deeper into functional programming, which I was interested since university. 
-          Here I am working with Daml which works with contracts, as well as python for integrations.
+          With IntellectEU, I adventured deeper into functional programming, which I was in interested since University. 
+          Here, I am working with Daml which works with contracts, as well as python for integrations. 
           Currently my tasks are:
             - As a Backend developer, add new features and correct bugs, both in daml side and integrations side. 
               This means I am working with both parts of the application from the backend and also handle communication between them.
