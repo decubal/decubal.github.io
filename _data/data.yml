@@ -88,7 +88,8 @@ experiences:
           Here, I am working with Daml which works with contracts, as well as python for integrations. 
           Currently my tasks are:
             - As a Backend developer, add new features and correct bugs, both in daml side and integrations side. 
-              This means I am working with both parts of the application from the backend and also handle communication between them.
+              This means I am working with both parts of the application from the backend and also handle communication between them,
+              as well as the communication with external parties and API.
       - role: Software Engineer
         time: 2021 - 2022
         company: Code One, Porto 
@@ -116,7 +117,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Currently adventuring into mobile apps on my free time. At the moment building a restful api for one app.
+      On my free time I am currently working in web development as fullstack utilizing C# and javascript.
 
 skills:
     title: Skills &amp; Proficiency
@@ -126,13 +127,13 @@ skills:
         level: 90%
 
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: Java
         level: 50%
 
       - name: Haskell / Daml
-        level: 40%
+        level: 60%
 
       - name: SQL DB
         level: 80%
