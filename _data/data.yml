@@ -124,16 +124,13 @@ skills:
 
     toolset:
       - name: C#
-        level: 90%
 
       - name: Python
-        level: 80%
 
-      - name: Java
-        level: 50%
+      - name: JavaScript
 
       - name: Haskell / Daml
-        level: 60%
 
       - name: SQL DB
-        level: 80%
+  
+      - name: MongoDB
